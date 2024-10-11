@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm lhy! 👋
+![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/yijiassu/count.svg) visitor.
 ---
