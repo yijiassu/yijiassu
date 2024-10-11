@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **yijiassu/yijiassu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +30,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yijiassu/count.svg
 😄 Pronouns: He/Him
 
 ⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
+
+
+### 🛠️ Languages and Tools:
+
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiassu&theme=radical&layout=compact"  />
